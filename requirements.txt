@@ -1,0 +1,8 @@
+keras
+tensorflow
+matplotlib
+numpy
+time
+scikit-image
+datatime
+pillow
